@@ -1,6 +1,6 @@
 # 169473-PrzedmiotFak
-# Zespół:
-# Kacper Stępniak
+Zespół:
+Kacper Stępniak
 Michalina Sobkiewicz
 Szymon Obniski
 Nikodem Szapiel
