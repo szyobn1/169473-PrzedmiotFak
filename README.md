@@ -1,6 +1,6 @@
 # 169473-PrzedmiotFak
 Zespół:
-Kacper Stępniak
-Michalina Sobkiewicz
-Szymon Obniski
+Kacper Stępniak  162596
+Michalina Sobkiewicz 169500
+Szymon Obniski 169473
 
